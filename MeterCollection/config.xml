@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG> 
+
+<SQLCONNECTION>　　   
+  <SQLIP>39.108.180.240</SQLIP><!-- 数据库地址 -->　　   
+  <SQLPORT>3306</SQLPORT><!-- 数据库端口号 -->
+  <USER>root</USER><!-- 数据库用户名 -->
+  <PASSWORD>123456</PASSWORD><!-- 数据库密码 -->
+  <DATABASE>energy</DATABASE><!-- 数据库名称 -->
+</SQLCONNECTION> 
+
+<ServerSOCKET>
+<SOCKETPORT>802</SOCKETPORT><!-- Socket端口号 -->
+</ServerSOCKET>
+
+<INTERVAL>1</INTERVAL><!-- 采集间隔时间（minute） -->
+  
+</CONFIG>
+
